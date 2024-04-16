@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Personal Website of EggAI!
+title: World of EggAI!
 email: egeyay@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
   As a startup founder, my passion lies in discovering obscure niches and discussing them!
