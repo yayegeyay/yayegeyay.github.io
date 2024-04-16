@@ -41,6 +41,18 @@ analytics:
   google:
     tracking_id: G-8PVVY2GYRH
 
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
