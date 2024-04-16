@@ -41,6 +41,22 @@ analytics:
   google:
     tracking_id: G-8PVVY2GYRH
 
+author:
+  name: "Ege Yay (EggAI)"
+  avatar: "assets/eggai.png"
+  bio: "Startup founder, customer discovery till I die." 
+  location: "Somewhere not comfortable"
+  links:
+    - label: "LinkedIn"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.linkedin.com/in/eggai/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/EggAI_"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/yayegeyay"
+
 defaults:
   # _posts
   - scope:
