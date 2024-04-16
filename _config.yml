@@ -28,7 +28,7 @@ twitter_username: EggAI_
 github_username:  yayegeyay
 
 # Build settings
-theme: minima
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 
