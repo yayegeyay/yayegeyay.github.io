@@ -36,8 +36,11 @@ show_date: true
 read_time: true
 words_per_minute: 250
 comments: false
-head_scripts:
-  - assets/gtag.js
+analytics:
+  provider: "google" # false (default), "google", "google-universal", "custom"
+  google:
+    tracking_id: G-8PVVY2GYRH
+
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
