@@ -29,6 +29,7 @@ github_username:  yayegeyay
 minimal_mistakes_skin: "neon"
 locale: "en-US"
 title_separator: "|"
+name: "Ege Yay"
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
