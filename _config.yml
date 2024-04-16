@@ -22,7 +22,7 @@ title: Personal Website of EggAI!
 email: egeyay@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
   As a startup founder, I thrive on exploring obscure niches and building innovative platforms. I love to share my discoveries and discuss potential new platforms and products globally.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://eggai.tech" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: EggAI_
 github_username:  yayegeyay
