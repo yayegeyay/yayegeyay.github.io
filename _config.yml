@@ -37,9 +37,9 @@ read_time: true
 words_per_minute: 250
 comments: false
 analytics:
-  provider: "google" # false (default), "google", "google-universal", "custom"
+  provider: "google-gtag"
   google:
-    tracking_id: G-8PVVY2GYRH
+    tracking_id: "G-8PVVY2GYRH"
 
 author:
   name: "Ege Yay (EggAI)"
