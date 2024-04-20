@@ -1,0 +1,7 @@
+main:
+  - title: "About Me!"
+    url: /about/
+  - title: "Contact Me"
+    url: /contact/
+  - title: "External Link"
+    url: https://eggai.substack.com/
