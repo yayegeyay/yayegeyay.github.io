@@ -1,7 +1,7 @@
 main:
-  - title: "About Me!"
+  - title: "Who's EggAI"
     url: /about/
   - title: "Contact Me"
     url: /contact/
-  - title: "External Link"
+  - title: "Newsletter"
     url: https://eggai.substack.com/
