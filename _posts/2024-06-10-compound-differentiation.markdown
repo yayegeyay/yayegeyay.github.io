@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Compound Differentiation"
-date:   2024-06-10 12:00:00 +0000
+date:   2025-06-12 12:00:00 +0000
 categories: math
 published: true
 ---
