@@ -1,13 +1,11 @@
 main:
   - title: "Home"
     url: /
-  - title: "Academic Consulting"
+  - title: "Learn to Improve Your AI"
+    url: /systematically-improve-your-ai/
+  - title: "Consulting"
     url: /consulting/
-  - title: "Teaching & Courses"
-    url: /teaching/
   - title: "Writing"
     url: /writing/
-  - title: "Resources"
-    url: /resources/
   - title: "About"
     url: /about/
