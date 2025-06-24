@@ -15,8 +15,12 @@ classes: wide
 | | |
 | --- | --- |
 | **Current focus** | Independent AI consultant helping teams turn prototypes into production-grade systems |
-| **Last role** | Co-Founder & CTO, _CloudSale.ai_ — built AI BDR platform, 3× outbound efficiency, 7-figure ARR in 10 months |
-| **Previous highlights** | Partner @ MEGVII ($8 B CV unicorn), Founder @ YAYAR Tech (AI & AR studio), Regional GM @ Bolt (European mobility) |
+| **Last role** | Co-Founder & CTO, **CloudSale.ai** – AI BDR platform; 3× outbound efficiency, 40 % revenue-month growth, 7-figure ARR in 10 months |
+| **Entrepreneur-in-Residence** | **Entrepreneur First** – validated 4 AI ventures across e-commerce & conversational intelligence (3 % cohort acceptance) |
+| **Partner** | **MEGVII** (valued $8 B) – shipped 2 commercial CV products; 20+ enterprise customers; $50 M+ ARR year 1 |
+| **Founder & MD** | **YAYAR Tech** – delivered $3 M+ AI/AR projects to Shell, Vodafone, Türk Telekom; 30 % cost-down CV solutions |
+| **Regional GM** | **Bolt (mobility unicorn)** – worked directly with CEO **Markus Villig** (Europe's youngest self-made billionaire); opened Turkey market, led 6-person team, achieved 400 % user growth in 12 months |
+| **Early venture** | **Soruno.com** – built K-12 e-learning platform, 1 000+ students, sold IP to schools |
 | **Education** | B.Sc. Computer Science (AI), McGill — Hugh M. Brock Scholar |
 
 ## Core Skills

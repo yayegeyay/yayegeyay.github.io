@@ -12,7 +12,7 @@ Your existing engineering team can ship robust AI in weeks—not quarters—when
 
 **You get independence, not dependencies.**
 
-[Book a 30-minute Strategy Call](mailto:egeyay@outlook.com?subject=AI%20Strategy%20Call){: .btn .btn--primary}
+[Book a 30-minute Strategy Call](https://forms.clickup.com/9003033730/f/8c9yt42-31634/THPWMNESR1UPL5QCQX){: .btn .btn--primary}
 
 ## Select Clients
 
@@ -52,7 +52,7 @@ When we wrap, your team will have:
 
 **No maintenance contracts. No lock-in. Just results.**
 
-[Jump on a call](mailto:egeyay@outlook.com?subject=AI%20Strategy%20Call){: .btn .btn--primary}
+[Jump on a Call](https://forms.clickup.com/9003033730/f/8c9yt42-31634/THPWMNESR1UPL5QCQX){: .btn .btn--primary}
 
 ## Investment options
 
