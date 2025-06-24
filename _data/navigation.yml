@@ -1,7 +1,13 @@
 main:
-  - title: "About Me"
+  - title: "Home"
+    url: /
+  - title: "Academic Consulting"
+    url: /consulting/
+  - title: "Teaching & Courses"
+    url: /teaching/
+  - title: "Writing"
+    url: /writing/
+  - title: "Resources"
+    url: /resources/
+  - title: "About"
     url: /about/
-  - title: "Contact"
-    url: /contact/
-  - title: "Newsletter"
-    url: https://eggai.substack.com/

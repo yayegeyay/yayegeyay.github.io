@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: EggAI
+title: Ege Yay
 email: egeyay@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I love diving into customer discovery across various markets and brainstorming interesting solutions! Join me and let's talk!
+  Serial entrepreneur, AI executive, and academic consultant. I help teams build better AI systems and bridge the gap between academia and industry. Currently teaching independent consultancy at University of Toronto.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://eggai.tech" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://egeyay.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: EggAI_
 github_username:  yayegeyay
 minimal_mistakes_skin: "contrast"
@@ -42,10 +42,10 @@ analytics:
     tracking_id: "G-8PVVY2GYRH"
 
 author:
-  name: "Ege Yay, aka EggAI"
+  name: "Ege Yay"
   avatar: "assets/eggai.png"
-  bio: "Here to listen, learn, and spark new ideas together." 
-  location: "Mostly in Toronto, Istanbul or Cape Town"
+  bio: "Serial entrepreneur, AI executive, and academic consultant helping teams systematically improve AI applications." 
+  location: "Toronto, Canada"
   links:
     - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
@@ -56,6 +56,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/yayegeyay"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:egeyay@outlook.com"
 
 include: ["_pages"]
 
@@ -68,9 +71,16 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: false
       share: true
       related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
