@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "About Ege Yay"
+title: ""
 permalink: /about/
 author_profile: true
 classes: wide
@@ -21,9 +21,6 @@ Building production AI agents for B2B sales automation. We've achieved 3x outbou
 
 **Independent AI Consultant (2019-Present)**
 Specializing in AI system implementation for Fortune 500 companies and high-growth startups. Recent clients include Shell, Vodafone, and Türk Telekom, with collective project value exceeding $2M and consistent 2-5x performance improvements.
-
-**AI Implementation Instructor (2023-Present)**
-Teaching systematic approaches to building production AI systems. My course maintains a 4.8/5 rating and has helped 150+ engineers successfully deploy AI applications that work reliably in real-world conditions.
 
 ## AI Implementation Expertise
 

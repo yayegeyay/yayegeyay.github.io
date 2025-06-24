@@ -1,8 +1,6 @@
 main:
   - title: "Home"
     url: /
-  - title: "Learn to Improve Your AI"
-    url: /systematically-improve-your-ai/
   - title: "Consulting"
     url: /consulting/
   - title: "Writing"

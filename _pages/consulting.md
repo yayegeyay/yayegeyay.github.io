@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "AI Implementation Consulting"
+title: ""
 permalink: /consulting/
 author_profile: true
 classes: wide
