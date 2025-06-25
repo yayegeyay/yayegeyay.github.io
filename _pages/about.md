@@ -8,25 +8,65 @@ classes: wide
 
 # About Ege Yay
 
-**Serial entrepreneur & AI executive with 10+ years building technology ventures.** I've founded and scaled four companies, including industry-first AI products serving over 100 enterprise clients. My expertise lies in bridging the gap between high-level business strategy and the technical details of AI implementation.
+I'm a serial entrepreneur and AI executive who has spent the last decade building and scaling technology companies. My focus is on bridging the gap between high-level business strategy and hands-on technical execution to create AI products that deliver measurable financial results.
 
-## Snapshot
+---
 
--   **Current focus:** Independent AI consultant, helping leadership teams use AI to create predictable revenue and sustainable profit margins.
--   **Last role:** Co-Founder & CTO, **CloudSale.ai** – Grew the company to 7-figure ARR in 10 months by building an AI-powered sales platform that tripled outbound efficiency.
--   **Entrepreneur-in-Residence:** **Entrepreneur First** – Vetted and prototyped four different AI ventures, specializing in market validation for new AI products.
--   **Partner:** **MEGVII** ($8B CV unicorn) – Led the team that shipped two major commercial computer vision products, generating over $50M in ARR in the first year.
--   **Founder & MD:** **YAYAR Tech** – Ran an AI/AR consulting firm that delivered over $3M in projects for major clients like Shell, Vodafone, and Türk Telekom.
--   **Regional GM:** **Bolt** – Launched the Turkish market for the mobility unicorn, achieving 400% user growth in the first year while working directly with CEO Markus Villig.
--   **Education:** B.Sc. Computer Science (AI Specialization), McGill University — Hugh M. Brock Scholar.
+### Experience
 
-## From Istanbul to AI Entrepreneurship
+**Co-Founder & CTO** @ **CloudSale.ai** (2022 – Present)
+*   Built an industry-first AI BDR platform that achieved 3x outbound efficiency and a 40% increase in qualified leads.
+*   Scaled the company to 100+ enterprise customers, driving 40% month-over-month revenue growth and reaching a 7-figure ARR in under a year.
+*   Personally raised angel funding from AI pioneer François Chollet (creator of Keras).
 
-I was born and raised in Istanbul, where I earned a full scholarship to one of Turkey's top science high schools. It was there, in a computer lab with old CRT monitors, that I wrote my first neural network. That experience sparked a lifelong passion for applied mathematics, which led me to McGill University on a Hugh M. Brock Scholarship. At McGill, I specialized in AI, spending my nights in the MILA lab and my days building the hackathon projects that would eventually land me my first seed check.
+**Entrepreneur in Residence** @ **Entrepreneur First** (2021 – 2022)
+*   Selected for a prestigious global talent incubator with a 3% acceptance rate.
+*   Prototyped and market-validated four distinct AI ventures in e-commerce and conversational intelligence, interviewing over 200 potential customers.
 
-After graduating, I embarked on a journey that took me through founder, product, and market expansion roles on three different continents. I scaled Bolt's ride-hailing service in Turkey, shipped complex computer vision products for MEGVII in Asia, and co-founded CloudSale.ai in Canada. Each of these experiences, from setting quarterly pipeline targets with a sales team to debugging a GPU memory leak with an engineering team, taught me a single, crucial lesson: **great AI is useless until it reliably serves a business need.**
+**Partner** @ **MEGVII** (2019 – 2021)
+*   Built and scaled two commercial AI products in ad-tech and retail-tech for the $8B+ computer vision unicorn.
+*   Reached 20+ enterprise customers and generated over $5M in ARR within the first year.
+*   Expanded market presence across 5 countries through strategic partnerships with VARs and consulting firms including Accenture and Deloitte.
 
-Today, I use that lesson to help other companies. I work with leadership teams to map their business processes, identify the highest-impact opportunities for AI, and implement systems that create real, measurable value. My goal is to embed this capability in an organization, so their first AI win is the first of many.
+**Founder & Managing Director** @ **YAYAR Tech** (2019 – 2021)
+*   Founded an AI & AR-focused venture studio and consultancy.
+*   Delivered over $3M in combined project value for clients including Shell, Vodafone, and Türk Telekom.
+*   Developed computer vision solutions that reduced operational costs by 30% for Fortune 500 energy clients.
+
+**Regional General Manager** @ **Bolt** (2014 – 2015)
+*   Led Turkey market expansion for the $10B+ mobility unicorn, reporting directly to founder Markus Villig.
+*   Managed a team of 6 and secured over 50 enterprise accounts, achieving 400% user growth in 12 months.
+
+**Founder & Developer** @ **Soruno.com** (2012 – 2014)
+*   Built a K-12 interactive e-learning platform from the ground up.
+*   Grew the user base to over 1,000 students and successfully sold the platform and IP rights to educational institutions.
+
+---
+
+### Skills & Expertise
+
+*   **AI & Technical Strategy:** AI Transformation, MLOps, LLM Agents, Computer Vision (PyTorch, TensorFlow).
+*   **Business & GTM:** Process Mapping, Sales Automation, Go-to-Market Strategy, P&L Management.
+*   **Languages:** Fluent in English and Turkish, conversational in Mandarin.
+
+---
+
+### Open Source & Community
+
+*   **Databricks Dolly:** Contributed memory optimization for large context processing, merged with 150+ GitHub stars.
+*   **LLaMA Project:** Developed multi-language tokenization improvements, featured in a community showcase with 25+ forks.
+*   **Guest Lecturer, METU:** Occasional speaker on AI entrepreneurship, customer discovery, and enterprise venture creation.
+
+---
+
+### Education
+
+**B.Sc., Computer Science (AI)** @ **McGill University**
+*   *Hugh M. Brock Scholar*
+*   Specialized in Artificial Intelligence and Machine Learning.
+
+**M.Sc., Analytics** @ **Georgia Tech**
+*   *Withdrew to pursue a full-time entrepreneurial opportunity.*
 
 ---
 *Let's talk about turning your AI ideas into systems that ship.*
