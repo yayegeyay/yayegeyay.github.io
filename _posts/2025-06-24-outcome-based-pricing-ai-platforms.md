@@ -5,24 +5,29 @@ date: 2025-06-24 10:00:00 +0000
 categories: strategy ai-pricing
 ---
 
-Most AI–tool vendors still copy the SaaS playbook: charge a flat fee per month and hope your usage costs stay below it. That model breaks when your users are *agents* rather than humans—and when half of them are weekend hackers shipping experiments that might spike to 10 × traffic overnight.
+Most AI-tool vendors are stuck in the last decade, copying the SaaS playbook: charge a flat monthly fee and hope the user's consumption costs stay neatly below it. This model starts to break down when your users are not humans, but autonomous agents that can spike their usage by 10x overnight. It completely falls apart when your user base is composed of "indie builders" and weekend hackers who are shipping brilliant experiments but can't justify a $500/month platform fee before they've made their first dollar.
 
-In my last venture, **CloudSale.ai**, we watched GPT costs swing 30 % week-to-week. A predictable subscription from our infra provider would have felt nice, but what actually mattered was aligning incentives: they should win *when we win*.
+This isn't a theoretical problem. In my last venture, **CloudSale.ai**, we were the customer. Our GPT costs would swing by as much as 30% from one week to the next, depending on the number of prospects our agents were researching. A predictable, flat subscription from our infrastructure provider would have been comforting for our finance team, but what we *really* wanted was a partner whose incentives were aligned with ours. We wanted them to win only when we won.
 
-### Why outcome-based beats credit-based
+### Why Outcome-Based Pricing Beats Credit-Based Models
 
-1. **Risk symmetry** – If the platform takes a 5 % rev-share, it's suddenly motivated to help you optimise prompts, cache embeddings, and renegotiate LLM pricing.
-2. **Fewer early-stage barriers** – Indie builders can launch without a $500 platform bill hanging overhead.
-3. **Built-in success services** – Need to migrate from Supabase to Postgres? The vendor now has economic reason to handle it for you.
+For the new generation of AI platforms, a shift to outcome-based pricing isn't just a good idea; it's a strategic necessity.
 
-### A practical framework
+1.  **It Creates Risk Symmetry:** If a platform takes a 5% revenue share instead of a monthly fee, its incentives are immediately and perfectly aligned with its users. Suddenly, the platform is motivated to help you optimize your prompts, cache your embeddings, and even renegotiate your LLM pricing with the upstream provider. Your success is their success.
+2.  **It Lowers Barriers for the Long Tail:** The most creative and innovative applications of AI are often born from individual developers and small teams. These indie builders can't afford to pay a hefty platform bill before they have a product, let alone revenue. An outcome-based model allows them to launch and experiment without the crushing weight of a monthly subscription hanging over their heads.
+3.  **It Enables Built-in Success Services:** What happens when an application built on your platform starts to succeed and outgrows its initial infrastructure? In a traditional SaaS model, this is where you lose your customer. They migrate off your platform to a more robust, custom solution. In an outcome-based model, this is where you double down. If a customer needs to migrate from a managed Supabase instance to a dedicated Postgres cluster, the platform now has a direct economic incentive to handle that migration for them. These "success services" become a key differentiator.
 
-| Stage | Platform cut | Services unlocked |
-| --- | --- | --- |
-| <$10 k ARR | 0 % | Self-serve templates |
-| $10 k–$100 k | 5 % | Chat support, scaling guides |
-| $100 k+ | 15 % | White-glove infra tuning, dedicated TAM |
+### A Practical Framework for Implementation
 
-The takeaway: price like a *silent co-founder*, not a landlord. The next generation of AI platforms will live or die by how much real revenue they create for "vibe coders" who'd rather ship than monitor Stripe webhooks.
+This doesn't have to be an all-or-nothing proposition. A tiered approach can work well:
 
-*Have thoughts? I'm running experiments with outcome-based billing on two client projects—drop me a note if you're curious.* 
+| Customer Stage | Platform Cut | Services Unlocked |
+|---|---|---|
+| **<$10k ARR** | 0% | Self-serve templates, community support |
+| **$10k–$100k ARR** | 5% | Priority chat support, pro-active scaling guides |
+| **$100k+ ARR** | 15% | White-glove infrastructure tuning, dedicated technical account manager |
+
+The core idea is simple: price your platform like a **silent co-founder**, not a landlord. Your goal is to increase the GDP of your ecosystem. The next generation of AI platforms will be judged not by how many users they have, but by how much real revenue they create for the "vibe coders" and indie builders who would rather be shipping innovative products than figuring out how to manage Stripe webhooks.
+
+---
+*Have thoughts on this? I'm currently running experiments with outcome-based billing on two of my client projects. If you're building in this space and thinking about monetization, drop me a note. I'd love to compare notes.* 

@@ -7,35 +7,33 @@ title: " "
 
 # 💥 What's up?
 
-I'm a founder-turned-advisor who blends board-level business strategy with hands-on AI execution. After scaling **CloudSale.ai** to seven-figure ARR—tripling outbound efficiency with agent-powered prospecting—I now help leadership teams turn ambitious AI ideas into *predictable revenue* and sustainable margins.
+I'm a founder-turned-advisor who has spent over a decade building and scaling AI-powered companies. After leading teams that shipped products generating over **$50M in ARR**, expanded into **5 countries**, and achieved **7-figure revenue in under a year**, I now help other leaders turn their ambitious AI goals into predictable business outcomes.
 
-I've sat on both sides of the table: setting quarterly pipeline targets with CROs and debugging GPU bill spikes with engineers. That mix lets me translate between OKRs and JSON logs—and ensures every model I ship moves a finance metric, not just a latency chart.
-
-I've helped Fortune 500s cut costs with computer-vision roll-outs, guided scale-ups through their first LLM deployments, and advised startups all the way from seed round to sustainable growth.
+I've sat on both sides of the table: setting quarterly pipeline targets with CROs and debugging GPU memory leaks with engineers. This dual perspective allows me to bridge the gap between business strategy and technical execution, ensuring that every AI initiative is tied to a measurable financial result.
 
 [Subscribe to my newsletter](https://eggai.substack.com/){: .btn .btn--primary}
 
-## What I do for clients
+## How I Help Companies Win with AI
 
-| Service | Typical Impact |
-|---------|----------------|
-| Map revenue processes & AI insertion points | 20-40 % pipeline lift |
-| Build prospecting & outreach agents | 3× BDR efficiency |
-| Deploy computer-vision for ops savings | 30 % cost reduction |
-| Tune & scale existing ML systems | 2-5× performance lift |
+| My Focus Area | Typical Business Outcome |
+|---|---|
+| **AI-Powered Sales & Marketing** | I design and implement agent-based systems that can 3x BDR efficiency and lift qualified lead volume by 40%. |
+| **Operational Efficiency through CV** | I deploy computer vision systems for industrial clients that have cut operational costs by up to 30%. |
+| **AI Product Strategy & Roadmapping** | I work with leadership to map business processes, identify high-ROI AI opportunities, and build a practical implementation plan. |
+| **Technical Due Diligence & Startup Vetting** | I help investors and executives evaluate AI startups and technologies, separating the hype from the reality. |
 
-[See detailed services](/consulting/){: .btn .btn--info}
+[See My Consulting Approach](/consulting/){: .btn .btn--info}
 
-## A few wins
+## A Few Career Highlights
 
-* Deployed computer-vision monitoring across 15 energy sites – saved $2 M yearly OPEX.
-* Adapted MEGVII models for five new markets – unlocked $50 M ARR in year one.
-* Automated prospecting at CloudSale.ai – generated 40 % more qualified leads with zero head-count increase.
+*   **CloudSale.ai (Co-Founder & CTO):** Built an AI-powered sales platform from the ground up, scaling to 100+ enterprise customers and 7-figure ARR in 10 months.
+*   **MEGVII ($8B+ Vision Unicorn):** As a partner, I led the development of two commercial AI products that were successfully rolled out across five countries, generating over $50M in first-year ARR.
+*   **Bolt (Mobility Unicorn):** As Regional GM, I launched the Turkish market and worked directly with CEO Markus Villig, achieving 400% user growth in our first year.
 
 ## Insights & Playbooks
 
-I publish deep-dives on scaling AI systems, debugging LLM apps, and squeezing every millisecond from vision pipelines. Read them here, or get them by mail every week.
+I regularly publish essays on AI strategy, product development, and the business of building AI companies. Read the latest posts for actionable insights from the front lines.
 
-[Read the latest posts](/writing/){: .btn .btn--inverse}
+[Read the Latest Posts](/writing/){: .btn .btn--inverse}
 
 <!-- End of homepage content -->

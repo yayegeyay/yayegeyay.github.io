@@ -6,51 +6,42 @@ author_profile: true
 classes: wide
 ---
 
-## Unlock Revenue with Human-AI Sales Systems
+## From Process Chaos to AI-Powered Efficiency
 
-Your engineering team builds features; your sales team books meetings. The gap? A repeatable process that lets the two reinforce each other. I design **human-AI workflows** where Business Development Reps partner with purpose-built agents that mine leads, craft outreach, and surface next-best actions—no extra head-count required.
+Your team is great at what they do. But their workflows are a tangle of manual steps, SaaS tools that don't talk to each other, and missed opportunities. You know AI can help, but you're facing a hundred vendors promising magic and a tired engineering team with no time for science projects.
 
-Think of me as the bridge between CRO priorities and ML-engineer constraints: I map the funnel, translate it into data requirements, then deliver lightweight agent tooling your reps actually use.
+I bridge that gap. I don't just recommend tools; I deliver a **repeatable system** for operational excellence, blending process mapping with targeted AI solutions.
 
 [Book a 30-minute Strategy Call](https://forms.clickup.com/9003033730/f/8c9yt42-31634/THPWMNESR1UPL5QCQX){: .btn .btn--primary}
 
-## Select Clients
+## My Consulting Philosophy: Capability, Not Dependency
 
-| Client | Contact | Industry |
-| --- | --- | --- |
-| Shell | VP Innovation | Energy & Oil |
-| Vodafone | Head of AI | Telecommunications |
-| Türk Telekom | CDO | Telecommunications |
-| MEGVII | Partner | Computer Vision |
-| Entrepreneur First | Portfolio Lead | Startup Accelerator |
-| CloudSale.ai | Co-Founder | AI Automation |
+My goal isn't to make you reliant on me. It's to install a new capability within your organization. We'll work together to build a culture of continuous, AI-assisted improvement. When our engagement ends, your team will have:
 
-…and several high-growth startups backed by a16z, Sequoia, and Index Ventures.
+*   **A Clear Process Map:** A visual blueprint of your core business workflows, identifying every friction point and opportunity for automation.
+*   **A Vetted AI Toolkit:** Instead of endless demos, you get a short-list of 2-3 vetted AI startups perfectly suited to your specific problem, along with a plan for a low-cost pilot.
+*   **An In-House Playbook:** A simple, repeatable guide for your own engineers to identify future bottlenecks and implement their own AI-powered solutions, ensuring the improvements continue long after I'm gone.
 
-## I'm not a consultant who optimises for recurring revenue
+## How I Work: A Phased Approach
 
-You shouldn't have to hand over 12-month retainers or buy "maintenance" hours that create perverse incentives. My goal is to **install repeatable AI-engineering processes** inside your company so you own the expertise after I'm gone.
+1.  **Process & Systems Audit (2 Weeks):** We sit with your sales, marketing, and operations teams to map your current state. We identify the top 3 bottlenecks where AI can deliver the fastest, highest-ROI wins.
+2.  **Solution Vetting & Pilot (4-6 Weeks):** I tap into my network of AI startups to find the right tools for the job. We design and run a small, low-risk pilot with one of them to prove the value and get your team comfortable.
+3.  **Playbook & Enablement (Ongoing):** I document the pilot's success and create a playbook from it. This becomes the first chapter in your company's new guide to leveraging AI for operational efficiency, which we can continue to build together.
 
-When we wrap, your team will have:
+## Representative Results
 
-* Continuous evaluation & feedback loops for every model in prod
-* 3-5× faster experimentation cycles (from weeks to days)
-* A data-driven roadmap that targets the highest-impact AI bets
+> "Ege didn't just give us a tool; he gave us a new way of seeing our own sales funnel. The agent playbook he built lets one BDR do the work of three."  
+> — VP Growth, Series-B SaaS
 
-## Real results from real teams
+> "We were drowning in AI hype. Ege cut through the noise, found a startup that solved our churn-prediction problem in a month, and saved us a six-figure engineering headache."  
+> — Founder, FinTech SMB
 
-> "Ege's computer-vision pipeline saved us $2 M a year and cut safety incidents in half."  
-> — CTO, Fortune 500 Energy Company
+> "Our engineers are brilliant, but they don't think in terms of business process. Ege's playbooks became the translator we desperately needed."  
+> — Head of Engineering, Logistics Startup
 
-> "3× outbound efficiency without adding SDR head-count. Worth every penny."  
-> — Co-Founder, CloudSale.ai
+## Is This For You?
 
-> "His frameworks turned our prototype LLM feature into a revenue driver in two sprints."  
-> — Product Lead, Vodafone
-
-## Ready to transform your engineering team?
-
-**No maintenance contracts. No lock-in. Just results.**
+This model works best for growth-stage SMBs ($5M-$100M ARR) that have product-market fit but are struggling with operational scale. If you feel like you're leaving money on the table due to inefficient processes, let's talk.
 
 [Jump on a Call](https://forms.clickup.com/9003033730/f/8c9yt42-31634/THPWMNESR1UPL5QCQX){: .btn .btn--primary}
 
@@ -79,14 +70,6 @@ Quarterly OKRs, weekly working sessions, unlimited async support. Perfect for or
 * **Quick wins, not science projects** – first demo in 14 days, full ROI report by day 60.  
 * **Process ownership stays in-house** – I build capability, not dependency.
 
-## Representative Results
-
-> "Ege's agent playbooks let one BDR do the work of three—without sounding like spam."  
-> — VP Growth, Series-B SaaS
-
-> "40 % more qualified leads in 6 weeks. The board stopped asking about pipeline."  
-> — CRO, CloudSale.ai
-
 ## Engagement Models
 
 **Road-Mapping Sprint — $25 k fixed**  
@@ -106,12 +89,15 @@ Quarterly OKRs, weekly working sessions, unlimited async support. Perfect for or
 4. **Weeks 5-6** – KPI review, iterate prompts & routing rules
 5. **Week 8** – Company-wide rollout or next workflow selected
 
-## Is This For You?
+## Select Clients
 
-This engagement works best if you…
+| Client | Contact | Industry |
+| --- | --- | --- |
+| Shell | VP Innovation | Energy & Oil |
+| Vodafone | Head of AI | Telecommunications |
+| Türk Telekom | CDO | Telecommunications |
+| MEGVII | Partner | Computer Vision |
+| Entrepreneur First | Portfolio Lead | Startup Accelerator |
+| CloudSale.ai | Co-Founder | AI Automation |
 
-* Have 3+ SDRs/BDRs and a predictable ICP
-* Use HubSpot, Salesforce, or a comparable CRM
-* Can grant limited API access to marketing & sales data
-
-If that's you, let's turn your funnel into a flywheel. 
+…and several high-growth startups backed by a16z, Sequoia, and Index Ventures. 
