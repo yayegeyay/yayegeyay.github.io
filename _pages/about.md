@@ -43,22 +43,6 @@ I'm a serial entrepreneur and AI executive who has spent the last decade buildin
 
 ---
 
-### Skills & Expertise
-
-*   **AI & Technical Strategy:** AI Transformation, MLOps, LLM Agents, Computer Vision (PyTorch, TensorFlow).
-*   **Business & GTM:** Process Mapping, Sales Automation, Go-to-Market Strategy, P&L Management.
-*   **Languages:** Fluent in English and Turkish, conversational in Mandarin.
-
----
-
-### Open Source & Community
-
-*   **Databricks Dolly:** Contributed memory optimization for large context processing, merged with 150+ GitHub stars.
-*   **LLaMA Project:** Developed multi-language tokenization improvements, featured in a community showcase with 25+ forks.
-*   **Guest Lecturer, METU:** Occasional speaker on AI entrepreneurship, customer discovery, and enterprise venture creation.
-
----
-
 ### Education
 
 **B.Sc., Computer Science (AI)** @ **McGill University**

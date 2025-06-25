@@ -14,19 +14,24 @@ I bridge that gap. I don't just recommend tools; I deliver a **repeatable system
 
 [Book a 30-minute Strategy Call](https://forms.clickup.com/9003033730/f/8c9yt42-31634/THPWMNESR1UPL5QCQX){: .btn .btn--primary}
 
-## My Consulting Philosophy: Capability, Not Dependency
+## My Approach: A System for AI-Driven Growth
 
-My goal isn't to make you reliant on me. It's to install a new capability within your organization. We'll work together to build a culture of continuous, AI-assisted improvement. When our engagement ends, your team will have:
+I don't sell AI tools or bill by the hour. I deliver a repeatable system for finding and fixing inefficient processes using the right blend of AI solutions and human expertise.
 
-*   **A Clear Process Map:** A visual blueprint of your core business workflows, identifying every friction point and opportunity for automation.
-*   **A Vetted AI Toolkit:** Instead of endless demos, you get a short-list of 2-3 vetted AI startups perfectly suited to your specific problem, along with a plan for a low-cost pilot.
-*   **An In-House Playbook:** A simple, repeatable guide for your own engineers to identify future bottlenecks and implement their own AI-powered solutions, ensuring the improvements continue long after I'm gone.
+### 1. The AI Opportunity Roadmap (2-Week Diagnostic)
+We start with a rapid, intensive deep-dive into your core business processes. I'll work alongside your sales, marketing, and ops teams to map your current workflows, identify hidden friction, and pinpoint the top 3-5 areas where AI can deliver the highest ROI. You get more than a report; you get a strategic playbook with a clear ROI model and a shortlist of vetted AI startups ready for a pilot.
 
-## How I Work: A Phased Approach
+### 2. The AI Pilot Program (4-6 Week Implementation)
+With a clear target from the roadmap, we move from strategy to execution. I'll manage a focused pilot program, implementing a targeted AI solution (from my network of vetted startups or built bespoke) with a small user group. We'll measure everything against baseline KPIs, prove the value, and build a powerful internal case study you can take to your board to secure buy-in for a full-scale rollout.
 
-1.  **Process & Systems Audit (2 Weeks):** We sit with your sales, marketing, and operations teams to map your current state. We identify the top 3 bottlenecks where AI can deliver the fastest, highest-ROI wins.
-2.  **Solution Vetting & Pilot (4-6 Weeks):** I tap into my network of AI startups to find the right tools for the job. We design and run a small, low-risk pilot with one of them to prove the value and get your team comfortable.
-3.  **Playbook & Enablement (Ongoing):** I document the pilot's success and create a playbook from it. This becomes the first chapter in your company's new guide to leveraging AI for operational efficiency, which we can continue to build together.
+### 3. The In-House Enablement System (Quarterly Retainer)
+My ultimate goal is to make your own team self-sufficient. This ongoing partnership focuses on building a permanent AI capability within your organization. I'll train your team to manage the new AI tools, interpret performance data, and—most importantly—run the diagnostic playbook themselves to continuously find new opportunities for improvement. It's about creating a culture of AI-driven efficiency that lasts.
+
+## What Makes This Different
+
+*   **Founder-Level Perspective:** I've been a CTO and a CRO. I understand the trade-offs between engineering constraints and revenue targets, and I know how to build solutions that satisfy both.
+*   **Vetted Startup Network:** You don't have time for endless sales demos. I maintain a curated network of best-in-class AI startups, so I can match you with the right tool for your specific problem, fast.
+*   **Focus on Capability, Not Dependency:** I don't want to be a permanent line item on your budget. My work is done when your team has the skills, tools, and playbooks to continue improving on their own.
 
 ## Representative Results
 
@@ -41,53 +46,9 @@ My goal isn't to make you reliant on me. It's to install a new capability within
 
 ## Is This For You?
 
-This model works best for growth-stage SMBs ($5M-$100M ARR) that have product-market fit but are struggling with operational scale. If you feel like you're leaving money on the table due to inefficient processes, let's talk.
+This approach is designed for growth-stage companies ($5M-$100M ARR) with established product-market fit who are now facing the operational challenges of scale. If you feel like broken processes are costing you money, let's talk.
 
 [Jump on a Call](https://forms.clickup.com/9003033730/f/8c9yt42-31634/THPWMNESR1UPL5QCQX){: .btn .btn--primary}
-
-## Investment options
-
-**Road-Mapping Sprint — $25 k fixed**  
-2-week audit, KPI baseline, and an AI adoption roadmap ranked by payback.
-
-**Pilot Implementation — from $85 k**  
-One workflow automated end-to-end (e.g., LinkedIn list-building + email draft + CRM sync). Includes playbook, KPIs, and hand-off workshop.
-
-**Advisory Retainer — $19.5 k / month**  
-Quarterly OKRs, weekly working sessions, unlimited async support. Perfect for organisations scaling multiple AI-sales plays.
-
-## What I Deliver
-
-| Package | Business Outcome |
-| --- | --- |
-| **Revenue Process Mapping** (2 weeks) | Diagnose leakages from lead gen to closed-won; hand-over a playbook with AI insertion points and ROI model |
-| **AI-Augmented BDR Pilot** (4-6 weeks) | Deploy an agent that auto-researches prospects, drafts personalised openers, and routes hot leads—target 3× rep throughput |
-| **Scale & Enablement** (ongoing) | Train sales ops to manage prompts & metrics; quarterly optimisation so the system evolves with your ICP |
-
-## Why Teams Hire Me
-
-* **Fluent in Sales & ML** – I've run outbound teams and shipped production agents; you won't need a translator.  
-* **Quick wins, not science projects** – first demo in 14 days, full ROI report by day 60.  
-* **Process ownership stays in-house** – I build capability, not dependency.
-
-## Engagement Models
-
-**Road-Mapping Sprint — $25 k fixed**  
-2-week audit, KPI baseline, and an AI adoption roadmap ranked by payback.
-
-**Pilot Implementation — from $85 k**  
-One workflow automated end-to-end (e.g., LinkedIn list-building + email draft + CRM sync). Includes playbook, KPIs, and hand-off workshop.
-
-**Advisory Retainer — $19.5 k / month**  
-Quarterly OKRs, weekly working sessions, unlimited async support. Perfect for organisations scaling multiple AI-sales plays.
-
-## Typical Timeline
-
-1. **Week 0-1** – Funnel & data audit, opportunity sizing
-2. **Week 2** – Strategy workshop with sales + engineering leads
-3. **Weeks 3-4** – Pilot agent deployed to small rep cohort
-4. **Weeks 5-6** – KPI review, iterate prompts & routing rules
-5. **Week 8** – Company-wide rollout or next workflow selected
 
 ## Select Clients
 
