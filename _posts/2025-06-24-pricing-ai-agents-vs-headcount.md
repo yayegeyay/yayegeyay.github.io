@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Pricing AI Agents: When to Charge Like Software and When to Charge Like Headcount"
-date: 2025-06-24 10:30:00 +0000
+date: 2025-04-15 08:00:00 +0000
 categories: pricing ai-agents
 ---
 

@@ -6,11 +6,11 @@ author_profile: true
 classes: wide
 ---
 
-## Transform your great engineers into great AI engineers
+## Unlock Revenue with Human-AI Sales Systems
 
-Your existing engineering team can ship robust AI in weeks—not quarters—when they have the right processes, templates, and guard-rails. I work side-by-side with your developers, transfer my playbooks, and leave you with permanent in-house capability instead of a never-ending consulting retainer.
+Your engineering team builds features; your sales team books meetings. The gap? A repeatable process that lets the two reinforce each other. I design **human-AI workflows** where Business Development Reps partner with purpose-built agents that mine leads, craft outreach, and surface next-best actions—no extra head-count required.
 
-**You get independence, not dependencies.**
+Think of me as the bridge between CRO priorities and ML-engineer constraints: I map the funnel, translate it into data requirements, then deliver lightweight agent tooling your reps actually use.
 
 [Book a 30-minute Strategy Call](https://forms.clickup.com/9003033730/f/8c9yt42-31634/THPWMNESR1UPL5QCQX){: .btn .btn--primary}
 
@@ -56,10 +56,62 @@ When we wrap, your team will have:
 
 ## Investment options
 
-**Monthly Advisory — $19,500 / month**  
-Weekly strategy sessions, unlimited async support. Perfect for teams that need ongoing guidance while executing in-house.
+**Road-Mapping Sprint — $25 k fixed**  
+2-week audit, KPI baseline, and an AI adoption roadmap ranked by payback.
 
-**Focused Project — starting at $80,000**  
-End-to-end delivery of a well-scoped AI initiative (e.g., agent workflow, computer-vision POC, LLM evaluation harness). 4–8 weeks elapsed time.
+**Pilot Implementation — from $85 k**  
+One workflow automated end-to-end (e.g., LinkedIn list-building + email draft + CRM sync). Includes playbook, KPIs, and hand-off workshop.
 
-Need something smaller? Send an email and we'll find the right engagement. 
+**Advisory Retainer — $19.5 k / month**  
+Quarterly OKRs, weekly working sessions, unlimited async support. Perfect for organisations scaling multiple AI-sales plays.
+
+## What I Deliver
+
+| Package | Business Outcome |
+| --- | --- |
+| **Revenue Process Mapping** (2 weeks) | Diagnose leakages from lead gen to closed-won; hand-over a playbook with AI insertion points and ROI model |
+| **AI-Augmented BDR Pilot** (4-6 weeks) | Deploy an agent that auto-researches prospects, drafts personalised openers, and routes hot leads—target 3× rep throughput |
+| **Scale & Enablement** (ongoing) | Train sales ops to manage prompts & metrics; quarterly optimisation so the system evolves with your ICP |
+
+## Why Teams Hire Me
+
+* **Fluent in Sales & ML** – I've run outbound teams and shipped production agents; you won't need a translator.  
+* **Quick wins, not science projects** – first demo in 14 days, full ROI report by day 60.  
+* **Process ownership stays in-house** – I build capability, not dependency.
+
+## Representative Results
+
+> "Ege's agent playbooks let one BDR do the work of three—without sounding like spam."  
+> — VP Growth, Series-B SaaS
+
+> "40 % more qualified leads in 6 weeks. The board stopped asking about pipeline."  
+> — CRO, CloudSale.ai
+
+## Engagement Models
+
+**Road-Mapping Sprint — $25 k fixed**  
+2-week audit, KPI baseline, and an AI adoption roadmap ranked by payback.
+
+**Pilot Implementation — from $85 k**  
+One workflow automated end-to-end (e.g., LinkedIn list-building + email draft + CRM sync). Includes playbook, KPIs, and hand-off workshop.
+
+**Advisory Retainer — $19.5 k / month**  
+Quarterly OKRs, weekly working sessions, unlimited async support. Perfect for organisations scaling multiple AI-sales plays.
+
+## Typical Timeline
+
+1. **Week 0-1** – Funnel & data audit, opportunity sizing
+2. **Week 2** – Strategy workshop with sales + engineering leads
+3. **Weeks 3-4** – Pilot agent deployed to small rep cohort
+4. **Weeks 5-6** – KPI review, iterate prompts & routing rules
+5. **Week 8** – Company-wide rollout or next workflow selected
+
+## Is This For You?
+
+This engagement works best if you…
+
+* Have 3+ SDRs/BDRs and a predictable ICP
+* Use HubSpot, Salesforce, or a comparable CRM
+* Can grant limited API access to marketing & sales data
+
+If that's you, let's turn your funnel into a flywheel. 

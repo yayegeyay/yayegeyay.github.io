@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Writing & AI Insights"
+title: "Writings"
 permalink: /writing/
 author_profile: true
 ---

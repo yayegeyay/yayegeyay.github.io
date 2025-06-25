@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Starting a Consulting Practice in the AI Gold Rush"
-date: 2025-06-24 11:20:00 +0000
+date: 2024-08-01 08:00:00 +0000
 categories: business consulting
 ---
 

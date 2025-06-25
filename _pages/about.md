@@ -12,29 +12,28 @@ classes: wide
 
 ## Snapshot
 
-| | |
-| --- | --- |
-| **Current focus** | Independent AI consultant helping teams turn prototypes into production-grade systems |
-| **Last role** | Co-Founder & CTO, **CloudSale.ai** – AI BDR platform; 3× outbound efficiency, 40 % revenue-month growth, 7-figure ARR in 10 months |
-| **Entrepreneur-in-Residence** | **Entrepreneur First** – validated 4 AI ventures across e-commerce & conversational intelligence (3 % cohort acceptance) |
-| **Partner** | **MEGVII** (valued $8 B) – shipped 2 commercial CV products; 20+ enterprise customers; $50 M+ ARR year 1 |
-| **Founder & MD** | **YAYAR Tech** – delivered $3 M+ AI/AR projects to Shell, Vodafone, Türk Telekom; 30 % cost-down CV solutions |
-| **Regional GM** | **Bolt (mobility unicorn)** – worked directly with CEO **Markus Villig** (Europe's youngest self-made billionaire); opened Turkey market, led 6-person team, achieved 400 % user growth in 12 months |
-| **Early venture** | **Soruno.com** – built K-12 e-learning platform, 1 000+ students, sold IP to schools |
-| **Education** | B.Sc. Computer Science (AI), McGill — Hugh M. Brock Scholar |
+- **Current focus:** Independent AI consultant turning prototypes into production-grade systems
+- **Last role:** Co-Founder & CTO, **CloudSale.ai** – 3× outbound efficiency, 7-figure ARR in 10 months
+- **Entrepreneur-in-Residence:** **Entrepreneur First** – validated 4 AI ventures (3 % acceptance)
+- **Partner:** **MEGVII** ($8 B CV unicorn) – 2 commercial products, $50 M+ ARR year 1
+- **Founder & MD:** **YAYAR Tech** – $3 M+ AI/AR projects for Shell, Vodafone, Türk Telekom
+- **Regional GM:** **Bolt** – opened Turkey market, 400 % user growth in 12 months working with CEO **Markus Villig**
+- **Early venture:** **Soruno.com** – AI-powered K-12 e-learning, 1 000+ students
+- **Education:** B.Sc. Computer Science (AI), McGill University — Hugh M. Brock Scholar
+
+## From Istanbul to AI Entrepreneurship
+
+Born and raised in Istanbul, I earned a full academic scholarship to one of Turkey's top science high schools, where I wrote my first neural-net in a computer-lab that still ran CRT monitors. A passion for applied math took me to **McGill University** on the Hugh M. Brock Scholarship. There I specialised in artificial intelligence—spending nights in the MILA lab, days building hack-weekend projects that landed my first seed cheque.
+
+After graduating I rotated through founder, product, and expansion roles across three continents—scaling Bolt's ride-hailing launch in Turkey, shipping computer-vision products at MEGVII, and eventually co-founding CloudSale.ai in Canada. Each stop taught me the same lesson: great AI is useless until it runs reliably in production.
+
+Today I help engineering teams embed that lesson—so their first model in prod isn't their last.
 
 ## Core Skills
 
 - AI/ML: PyTorch, TensorFlow, LLM agents, computer vision, MLOps
-- Business Tools: ClickUp, Asana, Notion, Tableau, Zapier
-- Languages: Python, TypeScript, SQL, Turkish (native), English (native), Mandarin (conversational)
-
-## Selected Achievements
-
-- **CloudSale.ai:** automated B2B sales with AI agents; scaled to 100+ enterprises.
-- **Fortune 500 Energy:** deployed CV monitoring across 15 sites, saving $2 M / year.
-- **MEGVII:** shipped two commercial AI products; $50 M+ ARR in year one.
-- **Bolt:** led Turkey expansion, hitting 400 % user growth in 12 months.
+- Languages: Python, TypeScript, SQL — fluent English & Turkish, conversational Mandarin
+- Tooling: ClickUp, Notion, Tableau, Zapier
 
 ---
 *Let's talk about turning your AI ideas into systems that ship.*

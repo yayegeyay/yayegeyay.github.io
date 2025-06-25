@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "RAG 101: Retrieval-Augmented Generation for Busy Founders"
-date: 2025-06-24 11:10:00 +0000
+date: 2024-10-12 10:30:00 +0000
 categories: rag fundamentals
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Version Control for Prompt Hackers: A 5-Minute Git Workflow"
-date: 2025-06-24 10:40:00 +0000
+date: 2025-03-10 12:00:00 +0000
 categories: engineering prompts
 tags: [vibe-coder]
 ---

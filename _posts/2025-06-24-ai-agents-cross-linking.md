@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Cross-Linking AI Agents: Stop Copy-Pasting Data Between Workflows"
-date: 2025-06-24 11:00:00 +0000
+date: 2024-12-20 14:00:00 +0000
 categories: ai-agents architecture
 ---
 

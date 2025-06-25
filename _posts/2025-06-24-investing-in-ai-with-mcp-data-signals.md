@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Investing in AI: Modular Context Protocols & Data Signals"
-date: 2025-06-24 10:15:00 +0000
+date: 2025-05-30 09:30:00 +0000
 categories: strategy architecture
 ---
 

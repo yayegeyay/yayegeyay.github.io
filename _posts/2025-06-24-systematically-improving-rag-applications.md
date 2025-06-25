@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Systematically Improving RAG without Losing Your Weekend"
-date: 2025-06-24 10:50:00 +0000
+date: 2025-02-05 09:00:00 +0000
 categories: rag
 ---
 
