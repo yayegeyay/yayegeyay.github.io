@@ -1,12 +1,10 @@
 ---
 layout: single
-title: "AI Systems Thinking Library"
+title: "Writings!"
 permalink: /writing/
 author_profile: true
 classes: wide
 ---
-
-# Writing
 
 {% for post in site.posts %}
 <div style="background: white; border: 1px solid #e9ecef; border-radius: 8px; padding: 1.5rem; margin: 1rem 0; border-left: 4px solid #2C3E50;">

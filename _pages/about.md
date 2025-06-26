@@ -1,172 +1,88 @@
 ---
 layout: single
-title: ""
+title: "About EggAI"
 permalink: /about/
 author_profile: true
 classes: wide
 ---
 
-# The AI-Native Business Architect
+I was raised in Istanbul, a city where cultures and continents come together. My family’s background is defined by perseverance: one grandfather drove a taxi, the other served as a police officer, and my grandmothers grew up without the opportunity to learn to read or write.
 
-I don't just add AI to your business. I completely **redesign your business architecture** for the AI era. I'm the rare combination of systems engineer and business builder who has architected AI-native companies generating $50M+ in revenue.
+Yet through sheer perseverance, my parents, an engineer and a banker, carved out successful professional careers. Their journey from modest roots to achievement has profoundly shaped my worldview and instilled in me an unwavering drive to create impact through innovation.
 
-Most business consultants lack technical depth. Most engineers lack business context. I've built both the systems and the companies.
+Inspired by the determination and ambition my parents instilled in me, I began pushing my own boundaries early on. At just 13, I spent countless late nights in my room learning to code, eventually launching an e learning website that attracted thousands of visitors. That drive opened unexpected doors: it led me to connect with Markus Villig, Europe's youngest self made billionaire, and by 16, I was working directly with him at Bolt for nearly two years. 
 
-<div style="background: linear-gradient(135deg, #2C3E50 0%, #34495E 100%); padding: 2rem; border-radius: 12px; color: white; text-align: center; margin: 2rem 0;">
-<h2 style="margin: 0; font-size: 2.2rem; font-weight: bold;">🏗️ Systems Architect</h2>
-<p style="margin: 0.5rem 0 0 0; font-size: 1.1rem;">Technical Foundation + Business Acumen = AI-Native Architecture</p>
-</div>
+Working side by side with Markus as a teenager, I saw up close how bold vision and relentless execution turn scrappy startups into global powerhouses (Bolt.eu, now valued at over $10B, is a service I use with pride, whether traveling in Cape Town or living in my current home, Toronto).
 
----
-
-## The Systems Thinking Journey
-
-### 🔧 Technical Foundation: McGill Computer Science (AI)
-**Deep Technical Expertise:** Specialized in AI/ML systems architecture  
-**Hugh M. Brock Scholar:** Recognition for academic excellence in computer science  
-**Systems Engineering:** Built large-scale AI systems processing millions of transactions
-
-### 🏗️ Architecture Experience: MEGVII Partner Role
-**System Scale:** Architected AI products handling massive transaction volumes  
-**Business Integration:** Connected technical capabilities to revenue-generating products  
-**Global Deployment:** Designed systems for 5-country simultaneous deployment  
-**Results:** $50M+ first-year revenue from products I architected
-
-### 🚀 Business Building: Serial Entrepreneur
-**CloudSale.ai Co-Founder & CTO:** Architected AI-native sales platform from ground up  
-**YAYAR Tech Founder:** Built AI/AR venture studio serving Fortune 500 clients  
-**Soruno.com Founder:** Early experience building and selling educational technology
+These years shaped my journey a lot and I am still enjoying working with great people, great companies and adding more value to the world with technology and experimentation. Here's my boring version of my CV for you to check further:
 
 ---
 
-## The AI-Native Architecture Advantage
+### Profile Summary
+Serial entrepreneur and AI executive with 10+ years building technology ventures. Founded and scaled 4 companies, including industry-first AI products serving 100+ enterprise clients. Expert in AI transformation, technical strategy, and guiding executive teams through successful AI adoption.
 
-### Technical + Business Depth = Unprecedented Results
+### Skills
+*   **AI/ML:** Cursor, Python, TensorFlow, PyTorch, Claude Code, OpenAI API, Databricks, Snowflake
+*   **Business Tools:** ClickUp, Asana, Notion, PitchBook, Tableau, Clay, Zapier, Make.com, Power BI, Alteryx, Sourcescrub, Excel, VBA, SQL, DataSite
 
-Most people have **one or the other**:
+### Languages
+*   English (Native)
+*   Turkish (Native)
+*   Mandarin (Conversational)
 
-**Technical People:** Brilliant engineers who can build AI systems but struggle with business context and revenue generation
-
-**Business People:** Strategic consultants who understand business needs but lack technical depth to architect complex AI solutions
-
-**I have both:** Deep technical capability to architect sophisticated AI systems **+** business experience building companies that generate $50M+ revenue
-
-### Systems Thinking vs. Point Solutions
-
-**Traditional Approach:** Add AI tools to existing business processes  
-**My Approach:** Redesign entire business architecture around AI capabilities
-
-**Traditional Result:** 10-20% efficiency improvements  
-**AI-Native Result:** 3-10x transformational gains through system synergies
+### Open Source Contributions
+*   **Databricks Dolly** - Contributed memory optimization for large context processing; merged with 150+ GitHub stars
+*   **LLaMA Project** - Developed multi-language tokenization improvements; featured in community showcase with 25+ forks
 
 ---
 
-## AI Architecture Track Record
+## Experience
 
-### CloudSale.ai: AI-Native Sales System Architecture
-**Technical Challenge:** Design sales pipeline entirely around AI agent capabilities  
-**Architecture Innovation:** Integrated prospecting, research, outreach, and qualification in unified AI system  
-**Business Integration:** Connected AI capabilities directly to revenue generation  
-**Results:** 7-figure ARR in 10 months, 3x BDR efficiency gains
+### Co-Founder & CTO at CloudSale.ai
+*2022.09–2024.12*
+<br>AI startup automating B2B sales with AI agent Business Development Representatives (BDRs)
+*   Built industry-first AI BDR platform, achieving 3x outbound efficiency and 40% increase in qualified leads based on 50+ BDR workflow analysis.
+*   Scaled to 100+ enterprises, driving 40% monthly revenue growth in 2023 and reaching 7-figure ARR in 10 months.
+*   Personally raised angel funding from AI pioneer François Chollet (Keras creator), establishing strategic partnerships.
 
-**Key Architecture Decisions:**
-- Event-driven processing for real-time prospect analysis
-- AI agent orchestration for complex sales workflows  
-- Human-AI interfaces optimized for exception handling
-- Scalable data architecture for millions of prospect interactions
+### Entrepreneur in Residence at Entrepreneur First
+*2021.09–2022.09*
+<br>Selective global talent incubator investing in high-potential AI startups
+*   Selected for prestigious global talent incubator (3% acceptance rate), prototyping AI ventures across e-commerce and conversational intelligence.
+*   Conducted market validation across 4 verticals, interviewing 200+ customers achieving product-market fit validation.
 
-### MEGVII: Computer Vision Business Systems
-**Technical Challenge:** Build AI products for retail and advertising at massive scale  
-**Architecture Innovation:** Real-time computer vision processing handling millions of daily transactions  
-**Business Integration:** Connected AI capabilities to measurable business outcomes for enterprise clients  
-**Results:** $50M+ first-year revenue across 5 countries
+### Partner at MEGVII
+*2019.10–2021.09*
+<br>Former second-most valuable AI startup globally, valued over $8B
+*   Built and scaled two commercial AI products in adtech and retailtech as venture builder/product manager, reaching 20+ enterprise customers generating $5M+ ARR within first year.
+*   Expanded market presence across 5 countries through strategic partnerships with VARs and consulting firms including Accenture, Innova, and Deloitte-affiliated partners, achieving 150% year-over-year growth.
 
-**Key Architecture Decisions:**
-- Distributed processing architecture for real-time inference
-- API-first design for seamless enterprise integration
-- Scalable ML pipeline for continuous model improvement
-- Multi-tenant architecture for global deployment
+### Founder & Managing Director at YAYAR Tech
+*2019.06–2021.09*
+<br>AI & AR-focused venture studio and consultancy
+*   Founded AI & AR consulting firm, delivering projects to Shell, Vodafone, Innova, and Turk Telekom with $3M+ combined project value.
+*   Developed computer vision solutions reducing operational costs by 30% for Fortune 500 energy clients.
 
-### Fortune 500 Operations: AI-Native Process Architecture
-**Technical Challenge:** Redesign operational workflows around computer vision capabilities  
-**Architecture Innovation:** Eliminated human bottlenecks while maintaining quality control  
-**Business Integration:** Connected AI systems directly to operational cost reduction  
-**Results:** 30% operational cost reduction at enterprise scale
+### Regional General Manager at Bolt.eu
+*2014.02–2015.06*
+<br>Mobility unicorn valued at over $10B
+*   Led Turkey market expansion, directly reporting to founder Markus Villig, managing team of 6 and securing 50+ enterprise accounts.
+*   Achieved 400% user growth within 12 months, establishing operational frameworks replicated across 15+ markets.
 
-**Key Architecture Decisions:**
-- Real-time processing pipelines for operational data
-- Exception handling systems for edge cases
-- Integration with existing enterprise systems
-- Performance monitoring and optimization frameworks
-
----
-
-## The Business Architecture Philosophy
-
-### 1. AI-First Process Design
-**Question:** If you were starting this business today with current AI capabilities, how would you architect it?
-
-**Traditional:** Human workflow → Add AI assistance  
-**AI-Native:** AI workflow → Human oversight for exceptions
-
-### 2. Systems Integration Thinking
-**Point Solutions:** Individual AI tools solving specific problems  
-**Systems Architecture:** Integrated AI capabilities creating compound business value
-
-### 3. Technical-Business Alignment
-**Technical Decisions:** Evaluated based on business impact and revenue potential  
-**Business Decisions:** Constrained by technical reality and system capabilities
+### Founder & Developer at Soruno.com
+*2012.02–2014.05*
+<br>K-12 interactive e-learning platform
+*   Grew user base to 1,000+ students and successfully sold platform content and rights to educational institutions.
+*   Built full-stack web application using modern technologies.
 
 ---
 
-## Technical Expertise
-
-### AI/ML Systems Architecture
-- Large-scale machine learning pipeline design
-- Real-time AI system deployment and optimization
-- Computer vision and natural language processing
-- AI model integration and orchestration
-
-### Enterprise System Integration  
-- API-first architecture design
-- Event-driven system architecture
-- Scalable data pipeline construction
-- Multi-tenant system deployment
-
-### Business System Design
-- Revenue-generating product architecture
-- Operational process optimization
-- Performance monitoring and analytics
-- Human-AI workflow orchestration
+## Education
+*   **B.Sc., Computer Science (AI)** - McGill University - Hugh M. Brock Scholar
+*   **M.Sc., Analytics** - Georgia Tech (Withdrew to pursue entrepreneurship)
 
 ---
 
-## Why Architecture Matters
-
-### Beyond AI Tools: Complete Business Transformation
-
-**AI Tools Approach:** 
-- Add chatbot to customer service
-- Bolt automation onto manual processes
-- Use AI for specific point solutions
-- **Result:** 10-20% efficiency improvements
-
-**AI-Native Architecture Approach:**
-- Redesign customer interaction around AI capabilities  
-- Rebuild processes to be AI-first from inception
-- Create integrated AI business systems
-- **Result:** 3-10x transformational business gains
-
-### The Architecture Premium
-
-Companies with AI-native architectures achieve:
-- **3-10x efficiency gains** vs. 10-20% from AI tools
-- **Sustainable competitive advantages** through system design
-- **Compound improvements** from integrated AI capabilities  
-- **Defensible business moats** through architectural complexity
-
----
-
-*Ready to architect your AI-native future?*
-
-[Start Your Architecture Assessment](https://forms.clickup.com/9003033730/f/8c9yt42-31634/THPWMNESR1UPL5QCQX){: .btn .btn--primary}
+## Activities & Leadership
+*   **Ultra Marathon Runner** - Completed historical site marathons across Turkey, North America, and Europe; achieved 100KM distance with multiple medal finishes
+*   **Guest Lecturer, METU** - Occasional speaker on AI entrepreneurship, customer discovery, and enterprise venture creation.
