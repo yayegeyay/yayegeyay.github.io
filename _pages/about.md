@@ -8,7 +8,7 @@ classes: wide
 
 # The AI-Native Business Architect
 
-I don't just add AI to your business—I completely **redesign your business architecture** for the AI era. I'm the rare combination of systems engineer and business builder who has architected AI-native companies generating $50M+ in revenue.
+I don't just add AI to your business. I completely **redesign your business architecture** for the AI era. I'm the rare combination of systems engineer and business builder who has architected AI-native companies generating $50M+ in revenue.
 
 Most business consultants lack technical depth. Most engineers lack business context. I've built both the systems and the companies.
 
