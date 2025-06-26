@@ -10,6 +10,29 @@ classes: wide
 
 I redesign businesses from the ground up for AI, creating measurable 10x efficiency gains through systems architecture.
 
+## Why This Combination Is Rare
+
+**Technical Depth:** I've built the actual AI systems, written the code, and dealt with real-world scale challenges.  
+**Business Acumen:** I've also built the companies, generated the revenue, and understand how technology translates to business outcomes.  
+**Systems Thinking:** Most importantly, I design holistic business architectures rather than point solutions.
+
+This intersection is uncommon. Most technical people lack business context. Most business consultants lack implementation experience. I've lived in both worlds and can bridge the gap.
+
+## The AI Maturity Spectrum
+
+Through working with dozens of companies, I've identified three distinct levels of AI readiness:
+
+### Level 1: AI-Resistant Architecture  
+Legacy systems fighting AI integration, creating bottlenecks that limit potential to 10-20% efficiency gains.
+
+### Level 2: AI-Integrated Architecture  
+AI tools connected to existing workflows with partial automation, hitting scaling limits around 30-50% efficiency gains.
+
+### Level 3: AI-Native Architecture  
+Business processes designed around AI capabilities with end-to-end automation, enabling 3-10x efficiency gains through system synergies.
+
+Most companies think they're ready for Level 3 but are actually operating at Level 1. The gap between these levels isn't about technology—it's about architecture.
+
 <div style="background: linear-gradient(135deg, #2C3E50 0%, #34495E 100%); padding: 2rem; border-radius: 12px; color: white; text-align: center; margin: 2rem 0;">
 <h2 style="margin: 0; font-size: 2.5rem; font-weight: bold;">Guaranteed Results</h2>
 <p style="margin: 0.5rem 0 0 0; font-size: 1.2rem;">100% money back if metrics aren't hit</p>
@@ -20,32 +43,6 @@ I redesign businesses from the ground up for AI, creating measurable 10x efficie
 Most companies add AI tools but keep humans as bottlenecks in every process step. One human approving, reviewing, or checking each AI output.
 
 **My approach:** Make each human 10x more productive by removing them from routine decisions and focusing them on strategic input.
-
-## Results Across Industries
-
-### SaaS Sales Pipeline (Series-A)
-**Before:** BDRs generating 50 qualified leads/month, CAC of $180  
-**After:** Same team generating 500 qualified leads/month, CAC of $60  
-**Human role:** Strategic account prioritization instead of manual prospecting  
-**Result:** 10x lead volume, 67% lower CAC, 7-figure ARR in 10 months
-
-### Manufacturing Quality Control (Fortune 500)
-**Before:** 20 inspectors processing 1,000 units/day, 15% defect rate  
-**After:** 3 inspectors processing 5,000 units/day, 3% defect rate  
-**Human role:** Exception handling and process optimization instead of manual inspection  
-**Result:** 5x throughput, 80% fewer defects, 30% cost reduction
-
-### Services Business Operations (Mid-Market)
-**Before:** Operations team managing 200 customer accounts, 25% churn  
-**After:** Same team managing 1,200 accounts, 8% churn  
-**Human role:** Strategic customer development instead of reactive support  
-**Result:** 6x account capacity, 68% churn reduction
-
-### Vertical SaaS Customer Success (Series-B)
-**Before:** CSMs monitoring 50 accounts each, 12% monthly churn  
-**After:** CSMs strategically managing 300 accounts each, 4% monthly churn  
-**Human role:** Growth planning and expansion instead of health monitoring  
-**Result:** 6x account capacity, 2x expansion rate
 
 ## AI-Native vs Traditional Architecture
 
