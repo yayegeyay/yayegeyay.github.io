@@ -8,7 +8,7 @@ classes: wide
 
 # AI-Native Business Architecture Blueprints
 
-These aren't typical business strategy essays. They're **technical architecture guides** with business context—the specific system designs, architectural patterns, and integration frameworks I use to build AI-native companies.
+These aren't typical business strategy essays. They're **technical architecture guides** with business context. They contain the specific system designs, architectural patterns, and integration frameworks I use to build AI-native companies.
 
 Each piece combines deep technical knowledge with business outcomes that generated $50M+ in revenue.
 
