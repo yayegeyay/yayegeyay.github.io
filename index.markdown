@@ -9,7 +9,7 @@ title: " "
 
 I'm Ege, a systems architect who helps businesses fundamentally redesign themselves for the AI era. Instead of adding AI tools to existing processes, I rebuild business architecture from the ground up to unlock exponential efficiency gains.
 
-My background combines deep technical expertise—having architected AI systems processing millions of transactions—with business execution experience that generated $50M+ in revenue across multiple ventures.
+My background combines deep technical expertise in architecting AI systems that process millions of transactions with business execution experience that generated $50M+ in revenue across multiple ventures.
 
 <div style="background: linear-gradient(135deg, #2C3E50 0%, #34495E 100%); padding: 2rem; border-radius: 12px; color: white; margin: 2rem 0;">
 <h2 style="margin: 0; font-size: 2.2rem; font-weight: bold; text-align: center;">🏗️ AI-Native Architecture</h2>
@@ -18,7 +18,7 @@ My background combines deep technical expertise—having architected AI systems 
 
 ## The Architecture Mindset
 
-Most companies approach AI like renovating a house—adding smart devices to existing structures. I approach it like an architect designing a new building optimized for modern technology from the foundation up.
+Most companies approach AI like renovating a house by adding smart devices to existing structures. I approach it like an architect designing a new building optimized for modern technology from the foundation up.
 
 This systems thinking perspective is what enabled me to:
 - Build AI sales systems that generated 7-figure ARR in 10 months
@@ -73,7 +73,7 @@ AI tools connected to existing workflows with partial automation, hitting scalin
 ### Level 3: AI-Native Architecture
 Business processes designed around AI capabilities with end-to-end automation, enabling 3-10x efficiency gains through system synergies.
 
-Most companies think they're ready for Level 3 but are actually operating at Level 1. The gap between these levels isn't about technology—it's about architecture.
+Most companies think they're ready for Level 3 but are actually operating at Level 1. The gap between these levels isn't about technology but about architecture.
 
 ## Representative Projects
 
