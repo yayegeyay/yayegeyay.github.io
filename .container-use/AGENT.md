@@ -1,1 +1,1 @@
-Environment with git installed to check repository information
+Environment for analyzing and redesigning website content for Alpine Investors audience
