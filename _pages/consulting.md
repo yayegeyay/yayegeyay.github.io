@@ -79,19 +79,16 @@ Most companies add AI tools but keep humans as bottlenecks in every process step
 
 ## The Transformation Process
 
-### Phase 1: Architecture Assessment (Month 1)
+### Phase 1: Architecture Assessment
 **What We Do:** Complete business process analysis and AI-native redesign  
-**Your Investment:** $50,000  
 **Deliverable:** Implementation roadmap with specific metrics targets
 
-### Phase 2: Core Transformation (Months 2-4)  
+### Phase 2: Core Transformation
 **What We Do:** Implement AI-native architecture and train your team  
-**Your Investment:** $250,000  
 **Deliverable:** Production AI-native system with 10x efficiency gains
 
-### Phase 3: Advanced Optimization (Ongoing)
+### Phase 3: Advanced Optimization
 **What We Do:** Expand AI capabilities and fine-tune performance  
-**Your Investment:** $100,000/quarter  
 **Deliverable:** Continuous improvement and new AI-native capabilities
 
 ## 100% Money-Back Guarantee
