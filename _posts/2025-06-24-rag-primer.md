@@ -9,7 +9,7 @@ I get asked by founders and investors all the time to explain Retrieval-Augmente
 
 Here is the one-paragraph explanation I've landed on after a dozen of these conversations:
 
-> "RAG is a system that stops a language model from making things up. It works by pairing a fast, internal search engine with a powerful language model. Before the model answers a question, it first searches *your* private documents—like your company's knowledge base or product specs—and uses only that information to formulate its response. This ensures the answers are based on your reality, not the model's pre-training trivia from the public internet."
+> "RAG is a system that stops a language model from making things up. It works by pairing a fast, internal search engine with a powerful language model. Before the model answers a question, it first searches *your* private documents. like your company's knowledge base or product specs. and uses only that information to formulate its response. This ensures the answers are based on your reality, not the model's pre-training trivia from the public internet."
 
 ### Why This Matters for Your Business
 

@@ -30,7 +30,7 @@ max_tokens: 500
 "You are a helpful assistant. Analyze the following LinkedIn profile and provide a two-sentence summary for a sales representative. Focus on their current role and recent achievements. The prospect's profile is: {{linkedin_profile}}"
 ```
 
-With this structure, your `git diff` becomes a powerful tool. When the quality of your AI's responses suddenly degrades, you can see *exactly* what changed—not just the text of the prompt, but the temperature, the model version, everything.
+With this structure, your `git diff` becomes a powerful tool. When the quality of your AI's responses suddenly degrades, you can see *exactly* what changed. not just the text of the prompt, but the temperature, the model version, everything.
 
 ### Feature Flags for Prompts
 
@@ -49,6 +49,6 @@ This simple process allows you to A/B test your prompts systematically, using th
 
 There are some great PromptOps platforms out there, and if you're a Fortune 500 company with a team of 50 prompt engineers, you should probably use one. But for the 99% of teams that are just trying to ship a product, a disciplined Git workflow is a more effective solution. It's free, it's flexible, and it integrates seamlessly with your existing development process.
 
-Start with these two simple conventions—the `/prompts` directory and feature flags—and you'll be ahead of most of the industry.
+Start with these two simple conventions. the `/prompts` directory and feature flags. and you'll be ahead of most of the industry.
 
 **Coming up:** In part two of this series, I'll discuss a similar Git-based approach for snapshotting your embedding model versions, so your semantic search results don't mysteriously drift overnight. 
