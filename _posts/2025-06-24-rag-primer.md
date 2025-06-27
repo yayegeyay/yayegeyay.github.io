@@ -5,16 +5,16 @@ date: 2024-10-12 10:30:00 +0000
 categories: ai strategy
 ---
 
-A Fortune 500 financial services client approached me when their AI initiative was stalled due to regulatory concerns about AI hallucination risks. Their legal team had identified potential liability exposure of $47M if AI systems provided incorrect information to clients or regulatory bodies.
+Through a board connection, I was introduced to a Fortune 500 financial services company whose AI initiative was stalled due to regulatory concerns about AI hallucination risks. Their legal team had identified potential liability exposure of $47M if AI systems provided incorrect information to customers or regulatory bodies.
 
 We implemented a Retrieval-Augmented Generation (RAG) architecture that eliminated hallucination risks while enabling AI deployment across 23 business units, delivering $23M in operational value within 18 months.
 
 ### The Strategic Challenge: Enterprise AI Risk Management
 
-The company wanted to deploy AI for customer service, regulatory reporting, and internal knowledge management, but traditional language models posed unacceptable business risks. A single hallucinated response in a client interaction could result in regulatory penalties, legal liability, or reputational damage worth millions.
+The company wanted to deploy AI for customer service, regulatory reporting, and internal knowledge management, but traditional language models posed unacceptable business risks. A single hallucinated response in a customer interaction could result in regulatory penalties, legal liability, or reputational damage worth millions.
 
 **The Risk Analysis:**
-- **Regulatory Compliance:** Financial services require perfect accuracy in client communications and regulatory submissions
+- **Regulatory Compliance:** Financial services require perfect accuracy in customer communications and regulatory submissions
 - **Legal Liability:** Incorrect AI responses could create fiduciary responsibility violations
 - **Operational Risk:** Unreliable AI outputs would undermine employee confidence and adoption
 
@@ -73,7 +73,7 @@ RAG implementation enabled cultural change around AI adoption by providing busin
 
 **Employee Adoption:** 89% of employees reported increased confidence using AI tools when they could see specific source citations for every response.
 
-**Regulatory Approval:** Compliance team approved AI deployment for client-facing applications after reviewing the source-controlled architecture.
+**Regulatory Approval:** Compliance team approved AI deployment for customer-facing applications after reviewing the source-controlled architecture.
 
 ### The Strategic Implementation Framework
 
