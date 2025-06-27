@@ -3,6 +3,7 @@ layout: single
 title: "Building $180M in Enterprise Value: Why Distribution Beats Technology"
 date: 2024-05-05 10:00:00 +0000
 categories: strategy moats
+classes: wide
 ---
 
 After working with dozens of AI companies over the past decade, I've observed a recurring misconception: founders pointing to their "proprietary algorithms" as competitive advantages. The most defensible businesses I've advised generated value through systematic execution rather than breakthrough innovation.
