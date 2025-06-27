@@ -1,11 +1,11 @@
 ---
 layout: single
-title: "Strategic AI Pricing: How a Client Built $67M ARR by Pricing Technology Like Talent"
+title: "Strategic AI Pricing: How a Customer Built $67M ARR by Pricing Technology Like Talent"
 date: 2025-04-15 08:00:00 +0000
 categories: pricing strategy
 ---
 
-A sales automation client approached me when their AI agents were priced like traditional software: $49/month per user with feature-based tiers. Despite delivering exceptional results, their average contract value remained below $12K annually, limiting growth potential and undervaluing the transformative impact their technology provided.
+A former coworker from my McKinsey days reached out when his sales automation company was struggling with pricing strategy. Their AI agents were priced like traditional software: $49/month per user with feature-based tiers. Despite delivering exceptional results, their average contract value remained below $12K annually, limiting growth potential and undervaluing the transformative impact their technology provided.
 
 We completely restructured their pricing strategy to position AI agents as intelligent workforce alternatives rather than software tools. This fundamental shift generated $67M in annual recurring revenue while establishing market leadership in AI-powered sales automation.
 
@@ -39,9 +39,9 @@ The pricing transformation delivered exceptional results across multiple dimensi
 
 **Revenue Growth:** Annual recurring revenue increased from $8.7M to $67M within 18 months, driven by 4.2x higher average contract values and improved customer retention.
 
-**Market Positioning:** Became recognized as the premium solution in AI sales automation, with enterprise clients choosing their platform specifically because of their success-based pricing model.
+**Market Positioning:** Became recognized as the premium solution in AI sales automation, with enterprise customers choosing their platform specifically because of their success-based pricing model.
 
-**Customer Economics:** Clients achieved average ROI of 340% within 90 days, enabling expansion sales and reducing churn to below 3% annually.
+**Customer Economics:** Customers achieved average ROI of 340% within 90 days, enabling expansion sales and reducing churn to below 3% annually.
 
 **Competitive Differentiation:** Success-based pricing became their primary competitive advantage, with prospects choosing their platform over lower-priced alternatives because their model demonstrated confidence in their results.
 
