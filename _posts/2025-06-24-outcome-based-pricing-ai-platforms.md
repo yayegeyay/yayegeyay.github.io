@@ -3,6 +3,7 @@ layout: single
 title: "Outcome-Based Pricing Revolution: How a Platform Customer Scaled Revenue 580% Through Aligned Incentives"
 date: 2025-06-24 10:00:00 +0000
 categories: strategy pricing
+classes: wide
 ---
 
 During office hours at a startup accelerator, I met a founder whose AI platform was struggling with the fundamental economics of traditional SaaS pricing. Their customers were independent developers and small teams whose usage could spike 10x overnight, making flat subscription fees either prohibitively expensive for small users or unsustainably unprofitable for the platform.

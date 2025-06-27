@@ -3,6 +3,7 @@ layout: single
 title: "Enterprise AI Implementation: How RAG Architecture Delivered $23M in Risk Mitigation"
 date: 2024-10-12 10:30:00 +0000
 categories: ai strategy
+classes: wide
 ---
 
 Through a board connection, I was introduced to a Fortune 500 financial services company whose AI initiative was stalled due to regulatory concerns about AI hallucination risks. Their legal team had identified potential liability exposure of $47M if AI systems provided incorrect information to customers or regulatory bodies.

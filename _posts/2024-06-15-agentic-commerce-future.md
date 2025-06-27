@@ -3,6 +3,7 @@ layout: single
 title: "Autonomous Commerce: How a Regional Platform Scaled Transaction Volume 470%"
 date: 2024-06-15 13:00:00 +0000
 categories: commerce strategy
+classes: wide
 ---
 
 A LinkedIn connection from Istanbul introduced me to a regional commerce platform struggling in a market where traditional e-commerce was fundamentally broken. Cultural resistance to online payments, combined with complex logistics infrastructure, created a massive opportunity for alternative transaction models.

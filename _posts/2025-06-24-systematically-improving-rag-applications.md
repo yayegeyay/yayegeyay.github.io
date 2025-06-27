@@ -3,6 +3,7 @@ layout: single
 title: "Operational Excellence in AI: How We Cut a Customer's AI Costs 73% While Improving Performance"
 date: 2025-02-05 09:00:00 +0000
 categories: operations optimization
+classes: wide
 ---
 
 A friend from business school recommended me to her Series B enterprise software company when their AI infrastructure was burning $340K monthly while delivering inconsistent results to their 47 enterprise customers. Their engineering team was focused on algorithmic improvements, but we identified that operational inefficiency was the real problem.

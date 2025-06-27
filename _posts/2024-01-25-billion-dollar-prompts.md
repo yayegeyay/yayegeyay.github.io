@@ -3,6 +3,7 @@ layout: single
 title: "The $1B Prompt: How Text Optimization Delivered 840% ROI for Energy Clients"
 date: 2024-01-25 09:45:00 +0000
 categories: prompts business
+classes: wide
 ---
 
 At a tech meetup in Austin, I met a founder whose energy sector startup was hemorrhaging credibility with enterprise customers. Their AI-powered geological analysis platform had an 18% hallucination rate, making it unsuitable for multi-million-dollar drilling decisions. Their engineering team wanted to spend six months and $400K on custom model fine-tuning.

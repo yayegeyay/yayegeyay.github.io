@@ -3,6 +3,7 @@ layout: single
 title: "Mass Personalization at Scale: How a SaaS Customer Built $23M ARR Through Customized AI"
 date: 2024-07-12 09:00:00 +0000
 categories: product strategy
+classes: wide
 ---
 
 While advising a venture capital fund, I was introduced to one of their portfolio companies facing a personalization challenge. Their AI platform was generating modest results with a one-size-fits-all approach. Sales teams were achieving 12% reply rates, which was competitive but not exceptional. The breakthrough came when we recognized that personalization wasn't a feature request; it was a fundamental business model transformation.

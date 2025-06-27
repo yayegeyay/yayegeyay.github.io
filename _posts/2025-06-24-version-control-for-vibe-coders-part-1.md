@@ -4,6 +4,7 @@ title: "AI Operations at Scale: How Systematic Prompt Management Prevented $8.7M
 date: 2025-03-10 12:00:00 +0000
 categories: operations infrastructure
 tags: [ai-ops]
+classes: wide
 ---
 
 At 2:17 AM on a Tuesday, I received an emergency call from a startup founder I'd met at TechCrunch Disrupt. Their customer support AI had suddenly started generating bizarre, off-brand responses that were damaging customer relationships. "We didn't change any code," he insisted. After 30 minutes of investigation, we discovered the problem: an untested prompt modification had been deployed to production without proper version control.

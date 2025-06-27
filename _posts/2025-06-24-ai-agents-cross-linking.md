@@ -3,6 +3,7 @@ layout: single
 title: "Enterprise AI Architecture: How Unified Agent Systems Delivered $34M in Customer Savings"
 date: 2024-12-20 14:00:00 +0000
 categories: architecture strategy
+classes: wide
 ---
 
 At a Y Combinator alumni event, I met a founder whose Series B SaaS company was burning $2.3M annually on AI infrastructure while delivering minimal business impact. The problem wasn't the individual AI agents, which were technically sophisticated. The problem was architectural chaos: seven different agent systems operating in complete isolation, each maintaining its own data stores and communication protocols.

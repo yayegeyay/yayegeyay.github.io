@@ -3,6 +3,7 @@ layout: single
 title: "Data-Driven AI Investment Strategy: How Systematic Due Diligence Generated 4.7x Returns"
 date: 2025-05-30 09:30:00 +0000
 categories: strategy investment
+classes: wide
 ---
 
 An angel investor I mentor invited me to co-invest in several AI deals after witnessing a recurring pattern: promising AI companies burning through capital on speculative product development while ignoring clear market signals. After analyzing $47M in value destroyed through poor AI investment decisions, I developed a systematic framework for evaluating AI opportunities that has since generated 4.7x average returns across 12 investments.

@@ -3,6 +3,7 @@ layout: single
 title: "Strategic AI Pricing: How a Customer Built $67M ARR by Pricing Technology Like Talent"
 date: 2025-04-15 08:00:00 +0000
 categories: pricing strategy
+classes: wide
 ---
 
 A former coworker from my McKinsey days reached out when his sales automation company was struggling with pricing strategy. Their AI agents were priced like traditional software: $49/month per user with feature-based tiers. Despite delivering exceptional results, their average contract value remained below $12K annually, limiting growth potential and undervaluing the transformative impact their technology provided.
