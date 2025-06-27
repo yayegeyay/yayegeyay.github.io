@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Ege Yay
+title: EggAI by Ege Yay
 email: egeyay@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Independent AI consultant, serial entrepreneur, and startup advisor. I help teams systematically improve AI applications and build production-grade AI systems. Creator of AI agents that scaled to 7-figure ARR.
+  ICoding at 13, working alongside a billionaire at 16, and feeling the thrill of PMF multiple times over. I use that experience to build intelligent systems that create new markets and deliver life-changing results.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://egeyay.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: EggAI_
@@ -43,8 +43,8 @@ analytics:
 
 author:
   name: "Ege Yay"
-  avatar: "assets/eggai.png"
-  bio: "Independent AI consultant and serial entrepreneur helping teams systematically improve AI applications and build production-grade systems." 
+  avatar: "assets/sitelogo.png"
+  bio: "Coding at 13, working alongside a billionaire at 16, and feeling the thrill of PMF multiple times over. I use that experience to build intelligent systems that create new markets and deliver life-changing results."
   location: "Toronto, Canada"
   links:
     - label: "LinkedIn"

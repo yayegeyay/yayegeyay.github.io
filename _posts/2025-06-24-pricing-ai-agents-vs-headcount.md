@@ -5,7 +5,7 @@ date: 2025-04-15 08:00:00 +0000
 categories: pricing ai-agents
 ---
 
-I see too many startups default to a standard SaaS pricing model—a flat "$49/month" for their shiny new AI agent. This is a critical mistake born from a 2012 playbook. An AI agent that automates half of a sales development rep's daily tasks isn't just another software tool; it's a direct alternative to hiring another employee. It should be priced accordingly.
+I see too many startups default to a standard SaaS pricing model. a flat "$49/month" for their shiny new AI agent. This is a critical mistake born from a 2012 playbook. An AI agent that automates half of a sales development rep's daily tasks isn't just another software tool; it's a direct alternative to hiring another employee. It should be priced accordingly.
 
 The right pricing model for your AI agent depends on two simple axes: the value of the outcome it delivers and its marginal cost to run.
 

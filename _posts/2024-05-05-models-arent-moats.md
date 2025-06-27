@@ -15,7 +15,7 @@ A great product that no one sees is just a hobby. A defensible business has dist
 
 ### 2. Unique Data Exhaust
 
-The only thing better than a great model is a great dataset that no one else has. At CloudSale.ai, our core model for scoring sales leads wasn't revolutionary. What *was* revolutionary was our data flywheel. We processed thousands of outbound emails and their replies every single day. This "data exhaust"—the unique, real-world interactions of our system—was used to retrain our lead-scoring model every night. Every email sent made our system smarter. Our competitors could copy our architecture, but they couldn't copy our data. That ever-growing, proprietary dataset was our true competitive advantage.
+The only thing better than a great model is a great dataset that no one else has. At CloudSale.ai, our core model for scoring sales leads wasn't revolutionary. What *was* revolutionary was our data flywheel. We processed thousands of outbound emails and their replies every single day. This "data exhaust". the unique, real-world interactions of our system. was used to retrain our lead-scoring model every night. Every email sent made our system smarter. Our competitors could copy our architecture, but they couldn't copy our data. That ever-growing, proprietary dataset was our true competitive advantage.
 
 ### 3. Workflow Lock-in
 
