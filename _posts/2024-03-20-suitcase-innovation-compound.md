@@ -1,11 +1,11 @@
 ---
 layout: single
-title: "Market Timing Mastery: How a Computer Vision Client Generated $47M Through Strategic Patience"
+title: "Market Timing Mastery: How a Computer Vision Customer Generated $47M Through Strategic Patience"
 date: 2024-03-20 11:30:00 +0000
 categories: product strategy
 ---
 
-A computer vision company I advised was facing a classic innovation timing challenge. Their manufacturing defect detection platform was technically superior to competitors, but adoption remained flat for 24 months. While their engineering team pushed for more R&D investment, we focused on a different question: what external catalyst would make their solution irresistible?
+A former college roommate reached out when his computer vision company was facing a classic innovation timing challenge. Their manufacturing defect detection platform was technically superior to competitors, but adoption remained flat for 24 months. While their engineering team pushed for more R&D investment, we focused on a different question: what external catalyst would make their solution irresistible?
 
 The breakthrough came from supply chain intelligence, not algorithmic advancement.
 
