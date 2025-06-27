@@ -75,17 +75,6 @@ Business processes designed around AI capabilities with end-to-end automation, e
 
 Most companies think they're ready for Level 3 but are actually operating at Level 1. The gap between these levels isn't about technology but about architecture.
 
-## Representative Projects
-
-### CloudSale.ai: AI-Native Sales Pipeline
-Redesigned the entire sales process around AI agent capabilities rather than augmenting human BDR workflows. Result: 7-figure ARR in 10 months with 3x efficiency gains.
-
-### MEGVII: Computer Vision at Scale
-Architected AI products for retail and advertising that handled millions of daily transactions. Result: $50M+ first-year revenue across 5 countries.
-
-### Enterprise Operations: AI-First Processes
-Redesigned Fortune 500 operational workflows to eliminate human bottlenecks while maintaining quality control. Result: 30% operational cost reduction at scale.
-
 ## Thinking About AI Strategy
 
 I write extensively about the architectural patterns, business frameworks, and system designs that enable AI-native companies. My technical writings cover both the "how" and the "why" behind building businesses for the AI era.
