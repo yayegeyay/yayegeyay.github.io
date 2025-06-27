@@ -1,12 +1,12 @@
 ---
 layout: single
-title: "AI Operations at Scale: How Systematic Prompt Management Prevented $8.7M in Client Revenue Loss"
+title: "AI Operations at Scale: How Systematic Prompt Management Prevented $8.7M in Customer Revenue Loss"
 date: 2025-03-10 12:00:00 +0000
 categories: operations infrastructure
 tags: [ai-ops]
 ---
 
-At 2:17 AM on a Tuesday, I received an emergency call from the CEO of a fast-growing AI client. Their customer support AI had suddenly started generating bizarre, off-brand responses that were damaging client relationships. "We didn't change any code," he insisted. After 30 minutes of investigation, we discovered the problem: an untested prompt modification had been deployed to production without proper version control.
+At 2:17 AM on a Tuesday, I received an emergency call from a startup founder I'd met at TechCrunch Disrupt. Their customer support AI had suddenly started generating bizarre, off-brand responses that were damaging customer relationships. "We didn't change any code," he insisted. After 30 minutes of investigation, we discovered the problem: an untested prompt modification had been deployed to production without proper version control.
 
 That incident led to a comprehensive AI operations framework that has since prevented $8.7M in potential revenue loss across multiple companies through systematic prompt management and deployment discipline.
 
@@ -54,7 +54,7 @@ The most valuable component was implementing systematic deployment controls that
 
 The systematic prompt management approach delivered exceptional operational value:
 
-**Revenue Protection:** Prevented 34 potential incidents that could have caused customer churn worth $8.7M in lifetime value across multiple client implementations.
+**Revenue Protection:** Prevented 34 potential incidents that could have caused customer churn worth $8.7M in lifetime value across multiple customer implementations.
 
 **Performance Optimization:** Systematic A/B testing of prompt variations improved conversion rates by an average of 23% across different use cases.
 
@@ -64,7 +64,7 @@ The systematic prompt management approach delivered exceptional operational valu
 
 ### The Enterprise Implementation Success
 
-The most compelling validation came from a Series B SaaS client where we implemented this framework:
+The most compelling validation came from a Series B SaaS customer where we implemented this framework:
 
 **The Challenge:** Their AI-powered sales qualification system was generating inconsistent results, causing their sales team to lose confidence in AI recommendations.
 
