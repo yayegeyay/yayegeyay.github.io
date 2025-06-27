@@ -5,13 +5,13 @@ date: 2024-06-15 13:00:00 +0000
 categories: commerce strategy
 ---
 
-A regional commerce platform I advised was struggling in a market where traditional e-commerce was fundamentally broken. Cultural resistance to online payments, combined with complex logistics infrastructure, created a massive opportunity for alternative transaction models.
+A LinkedIn connection from Istanbul introduced me to a regional commerce platform struggling in a market where traditional e-commerce was fundamentally broken. Cultural resistance to online payments, combined with complex logistics infrastructure, created a massive opportunity for alternative transaction models.
 
 Rather than fighting established consumer behavior, we designed an autonomous purchasing system that eliminated friction entirely. The results reshaped how they think about scalable commerce architecture.
 
 ### The Strategic Challenge: Cultural Economics
 
-This client operated in a $34B commerce market with only 12% digital penetration, compared to 67% in Western Europe. The primary barrier wasn't technology but trust. Consumers preferred cash-on-delivery, which created operational complexity and reduced order values by an average of 43%.
+This customer operated in a $34B commerce market with only 12% digital penetration, compared to 67% in Western Europe. The primary barrier wasn't technology but trust. Consumers preferred cash-on-delivery, which created operational complexity and reduced order values by an average of 43%.
 
 **The Key Insight:** Instead of trying to change consumer behavior, we would make digital purchasing invisible to the end user through intelligent automation.
 
