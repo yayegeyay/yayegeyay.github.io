@@ -6,8 +6,6 @@ author_profile: true
 classes: wide
 ---
 
-# AI-Native Business Architecture
-
 I redesign businesses from the ground up for AI, creating measurable 10x efficiency gains through systems architecture.
 
 ## Why This Combination Is Rare
